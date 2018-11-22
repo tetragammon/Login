@@ -1,0 +1,31 @@
+.body{
+	background-color:#E9ECEF;
+	height:100%;
+}
+
+.jumbotron {
+	align-content:center;
+	width:100%;
+	padding-top:15%;
+	text-align:center;
+
+}
+
+.logare {
+	width: 40%;
+    margin-left: 30%;
+}
+
+.col-form-label {
+	font-weight:bold;
+}
+
+.form-control {
+	width:80%
+}
+
+.creare {
+	width:30%;
+	margin-left: 35%;
+    margin-top: 10%;
+}
